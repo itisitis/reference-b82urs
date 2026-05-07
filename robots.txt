@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itisitis.github.io/reference-b82urs/sitemap.xml
